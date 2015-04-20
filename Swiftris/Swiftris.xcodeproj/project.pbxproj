@@ -37,6 +37,7 @@
 		8572D98B1AE5A0870010691D /* JShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8572D98A1AE5A0870010691D /* JShape.swift */; };
 		8572D98D1AE5A0BC0010691D /* SShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8572D98C1AE5A0BC0010691D /* SShape.swift */; };
 		8572D98F1AE5A0F80010691D /* ZShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8572D98E1AE5A0F80010691D /* ZShape.swift */; };
+		8572D9951AE5A2610010691D /* Swiftris.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8572D9941AE5A2610010691D /* Swiftris.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,6 +85,7 @@
 		8572D98A1AE5A0870010691D /* JShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JShape.swift; sourceTree = "<group>"; };
 		8572D98C1AE5A0BC0010691D /* SShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SShape.swift; sourceTree = "<group>"; };
 		8572D98E1AE5A0F80010691D /* ZShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZShape.swift; sourceTree = "<group>"; };
+		8572D9941AE5A2610010691D /* Swiftris.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swiftris.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 				8572D98A1AE5A0870010691D /* JShape.swift */,
 				8572D98C1AE5A0BC0010691D /* SShape.swift */,
 				8572D98E1AE5A0F80010691D /* ZShape.swift */,
+				8572D9941AE5A2610010691D /* Swiftris.swift */,
 			);
 			path = Swiftris;
 			sourceTree = "<group>";
@@ -309,6 +312,7 @@
 				8572D9831AE593090010691D /* SquareShape.swift in Sources */,
 				8572D9211AE57DA40010691D /* GameScene.swift in Sources */,
 				8572D98B1AE5A0870010691D /* JShape.swift in Sources */,
+				8572D9951AE5A2610010691D /* Swiftris.swift in Sources */,
 				8572D9811AE5919C0010691D /* Shape.swift in Sources */,
 				8572D97D1AE585820010691D /* Array2D.swift in Sources */,
 				8572D9871AE5A0460010691D /* LineShape.swift in Sources */,
